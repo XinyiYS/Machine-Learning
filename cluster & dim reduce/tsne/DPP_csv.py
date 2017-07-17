@@ -1,4 +1,8 @@
+import json
+import numpy as np 
 import pandas as pd
+import sompy
+
 
 class DPP_csv(object):
     '''
@@ -14,7 +18,7 @@ class DPP_csv(object):
         self._loaded = _loaded
         self.data = data
 
-    def get_data(self, data_size=None, data_frac=0.1):
+    def get_data(self, data_size=None, data_frac=0.2):
         if not self._loaded:
             self.df = pd.read_csv(self.data_dir)
             self._loaded = True

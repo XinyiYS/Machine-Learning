@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a21f9cf2-41f8-4c8f-b5e4-70b54cc60ed3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,7 +36,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="ml__" />
+        <entry key="$PROJECT_DIR$" value="som_v1.1" />
       </map>
     </option>
   </component>
@@ -109,7 +109,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Graph Plots" />
+              <option name="myItemId" value="SOM" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -125,13 +125,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SOM" />
+      <recent name="$PROJECT_DIR$/Graph Plots" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Graph Plots" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Graph Plots" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -427,7 +428,21 @@
       <option name="project" value="LOCAL" />
       <updated>1500261162811</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Cleaning up files and folders">
+      <created>1500261434445</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1500261434445</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Cleaning up files and folders">
+      <created>1500261584082</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1500261584082</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -531,7 +546,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DPP.py">
+    <entry file="file://$PROJECT_DIR$/SOM/DPP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
           <caret line="87" column="34" lean-forward="false" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
@@ -539,7 +554,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DPP_csv.py">
+    <entry file="file://$PROJECT_DIR$/SOM/DPP_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1005">
           <caret line="70" column="54" lean-forward="false" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
@@ -547,7 +562,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Testbed.py">
+    <entry file="file://$PROJECT_DIR$/SOM/Testbed.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
@@ -555,7 +570,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TF_KMeans_Sachin.py">
+    <entry file="file://$PROJECT_DIR$/SOM/TF_KMeans_Sachin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
@@ -563,7 +578,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DPP.py">
+    <entry file="file://$PROJECT_DIR$/SOM/DPP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
           <caret line="87" column="34" lean-forward="false" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
@@ -571,7 +586,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DPP_csv.py">
+    <entry file="file://$PROJECT_DIR$/SOM/DPP_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1005">
           <caret line="70" column="54" lean-forward="true" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
@@ -579,7 +594,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Testbed.py">
+    <entry file="file://$PROJECT_DIR$/SOM/Testbed.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -587,8 +602,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/som model with Sachin's model.py" />
-    <entry file="file://$PROJECT_DIR$/DPP.py">
+    <entry file="file://$PROJECT_DIR$/SOM/som model with Sachin's model.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/DPP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
@@ -596,10 +611,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sachin_som_with_TF.py" />
-    <entry file="file://$PROJECT_DIR$/som model with Sachin's model.py" />
-    <entry file="file://$PROJECT_DIR$/som model with Sachin's model.py" />
-    <entry file="file://$PROJECT_DIR$/DPP.py">
+    <entry file="file://$PROJECT_DIR$/SOM/Sachin_som_with_TF.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/som model with Sachin's model.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/som model with Sachin's model.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/DPP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1245">
           <caret line="86" column="29" lean-forward="false" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
@@ -607,9 +622,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sachin_som_with_TF.py" />
-    <entry file="file://$PROJECT_DIR$/som model with Sachin's model.py" />
-    <entry file="file://$PROJECT_DIR$/DPP.py">
+    <entry file="file://$PROJECT_DIR$/SOM/Sachin_som_with_TF.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/som model with Sachin's model.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/DPP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1245">
           <caret line="86" column="29" lean-forward="false" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
@@ -617,10 +632,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sachin_som_with_TF.py" />
-    <entry file="file://$PROJECT_DIR$/som model with Sachin's model.py" />
-    <entry file="file://$PROJECT_DIR$/som model with SOMPY.py" />
-    <entry file="file://$PROJECT_DIR$/DPP.py">
+    <entry file="file://$PROJECT_DIR$/SOM/Sachin_som_with_TF.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/som model with Sachin's model.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/som model with SOMPY.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/DPP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1245">
           <caret line="86" column="29" lean-forward="false" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
@@ -628,37 +643,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sachin_som_with_TF.py" />
-    <entry file="file://$PROJECT_DIR$/som model with SOMPY.py" />
-    <entry file="file://$PROJECT_DIR$/Second try of driving data with minisom.ipynb" />
-    <entry file="file://$PROJECT_DIR$/First try at som with driving data.ipynb" />
-    <entry file="file://$PROJECT_DIR$/Second try of driving data with minisom.ipynb" />
-    <entry file="file://$PROJECT_DIR$/Third try of driving data with py-kohonen.ipynb" />
-    <entry file="file://$PROJECT_DIR$/First try at som with driving data.ipynb" />
-    <entry file="file://$PROJECT_DIR$/som model with SOMPY.py" />
-    <entry file="file://$PROJECT_DIR$/Graph Plots/ata.TripID' activa5/Dataplot.py">
+    <entry file="file://$PROJECT_DIR$/SOM/Sachin_som_with_TF.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/som model with SOMPY.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/Second try of driving data with minisom.ipynb" />
+    <entry file="file://$PROJECT_DIR$/SOM/First try at som with driving data.ipynb" />
+    <entry file="file://$PROJECT_DIR$/SOM/Second try of driving data with minisom.ipynb" />
+    <entry file="file://$PROJECT_DIR$/SOM/Third try of driving data with py-kohonen.ipynb" />
+    <entry file="file://$PROJECT_DIR$/SOM/First try at som with driving data.ipynb" />
+    <entry file="file://$PROJECT_DIR$/SOM/som model with SOMPY.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/Graph Plots/ata.TripID' activa5/Dataplot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graph Plots/ata.TripID' activa5/dataDict.csv">
+    <entry file="file://$PROJECT_DIR$/SOM/Graph Plots/ata.TripID' activa5/dataDict.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sachin_som_with_TF.py" />
-    <entry file="file://$PROJECT_DIR$/TestBed.ipynb">
+    <entry file="file://$PROJECT_DIR$/SOM/Sachin_som_with_TF.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/TestBed.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="-1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataOut.txt">
+    <entry file="file://$PROJECT_DIR$/SOM/dataOut.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="0" column="208432" lean-forward="false" selection-start-line="0" selection-start-column="208432" selection-end-line="0" selection-end-column="208432" />
@@ -666,14 +681,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Graph Plots/dict_fromtxt_to_csv.py" />
-    <entry file="file://$PROJECT_DIR$/save_dicttxt_csv.py">
+    <entry file="file://$PROJECT_DIR$/SOM/save_dicttxt_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DPP_csv.py">
+    <entry file="file://$PROJECT_DIR$/SOM/DPP_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1005">
           <caret line="70" column="54" lean-forward="false" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
@@ -681,7 +696,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DPP.py">
+    <entry file="file://$PROJECT_DIR$/SOM/DPP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
           <caret line="87" column="34" lean-forward="false" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
@@ -689,8 +704,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/som model with Sachin's model.py" />
-    <entry file="file://$PROJECT_DIR$/Testbed.py">
+    <entry file="file://$PROJECT_DIR$/SOM/som model with Sachin's model.py" />
+    <entry file="file://$PROJECT_DIR$/SOM/Testbed.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
@@ -698,7 +713,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TF_KMeans_Sachin.py">
+    <entry file="file://$PROJECT_DIR$/SOM/TF_KMeans_Sachin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />

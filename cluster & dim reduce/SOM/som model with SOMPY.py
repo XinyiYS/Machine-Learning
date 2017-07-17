@@ -1,7 +1,6 @@
 import sompy
-from sklearn.externals import joblib
-
 from SOM import DPP
+from sklearn.externals import joblib
 
 
 def build_som_model(data, n_row=20,n_col=30,train_info='info'):

@@ -2,9 +2,8 @@ import Sachin_som_with_TF as som
 import matplotlib
 import matplotlib.pylab as plt
 import numpy as np
-from mpl_toolkits.axes_grid.anchored_artists import AnchoredText
-
 from SOM import DPP
+from mpl_toolkits.axes_grid.anchored_artists import AnchoredText
 
 dpp = DPP.DPP(data_dir='dataOut.csv')
 data, chosen_attributes = dpp.get_data()
